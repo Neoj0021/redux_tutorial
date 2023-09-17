@@ -1,6 +1,6 @@
 # React + TypeScript + Vite
 
-> Created using (React Redux with TypeScript Crash Course - 2021)[https://www.youtube.com/watch?v=udr2rx_B99w&ab_channel=LaithAcademy]
+> Created using [React Redux with TypeScript Crash Course - 2021](https://www.youtube.com/watch?v=udr2rx_B99w&ab_channel=LaithAcademy)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
